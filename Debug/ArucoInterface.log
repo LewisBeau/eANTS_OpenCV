@@ -1,0 +1,9 @@
+﻿  ArucoInterface.cpp
+c:\users\lewis\documents\visual studio 2015\projects\arucointerface\arucointerface\arucointerface.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\visual studio 2015\projects\arucointerface\arucointerface\arucointerface.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\visual studio 2015\projects\arucointerface\arucointerface\arucointerface.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\visual studio 2015\projects\arucointerface\arucointerface\arucointerface.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lewis\documents\visual studio 2015\projects\arucointerface\arucointerface\arucointerface.cpp(99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lewis\documents\visual studio 2015\projects\arucointerface\arucointerface\arucointerface.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  ArucoInterface.vcxproj -> C:\Users\lewis\documents\visual studio 2015\Projects\ArucoInterface\Debug\ArucoInterface.dll
+  ArucoInterface.vcxproj -> C:\Users\lewis\documents\visual studio 2015\Projects\ArucoInterface\Debug\ArucoInterface.pdb (Full PDB)
